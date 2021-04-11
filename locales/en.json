@@ -1,0 +1,9 @@
+{
+	"welcome": "Hello world!!!",
+	"not_found": "Not found route.",
+	"internal_server_error": "Internal server error.",
+	"user_is_valid": "User is valid.",
+	"user_is_invalid": "User is invalid.",
+	"email_required": "Email is required.",
+	"password_required": "Password is required."
+}

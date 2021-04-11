@@ -1,0 +1,9 @@
+{
+    "welcome": "Olá mundo!!!",
+    "not_found": "Rota não foi encontrado.",
+	"internal_server_error": "Erro interno no servidor",
+    "user_is_valid": "Usuário é valido.",
+    "user_is_invalid": "Usuário é inválido.",
+    "email_required": "Email é obrigatório.",
+    "password_required": "Senha é obrigatória."
+}
